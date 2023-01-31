@@ -1,0 +1,15 @@
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/bin/Debug/net7.0/01Selectionsort
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/bin/Debug/net7.0/01Selectionsort.deps.json
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/bin/Debug/net7.0/01Selectionsort.runtimeconfig.json
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/bin/Debug/net7.0/01Selectionsort.dll
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/bin/Debug/net7.0/01Selectionsort.pdb
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/obj/Debug/net7.0/01Selectionsort.csproj.AssemblyReference.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/obj/Debug/net7.0/01Selectionsort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/obj/Debug/net7.0/01Selectionsort.AssemblyInfoInputs.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/obj/Debug/net7.0/01Selectionsort.AssemblyInfo.cs
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/obj/Debug/net7.0/01Selectionsort.csproj.CoreCompileInputs.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/obj/Debug/net7.0/01Selectionsort.dll
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/obj/Debug/net7.0/refint/01Selectionsort.dll
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/obj/Debug/net7.0/01Selectionsort.pdb
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/obj/Debug/net7.0/01Selectionsort.genruntimeconfig.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/01Selectionsort/obj/Debug/net7.0/ref/01Selectionsort.dll

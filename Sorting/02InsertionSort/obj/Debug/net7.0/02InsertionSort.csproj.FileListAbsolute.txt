@@ -1,0 +1,15 @@
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/bin/Debug/net7.0/02InsertionSort
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/bin/Debug/net7.0/02InsertionSort.deps.json
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/bin/Debug/net7.0/02InsertionSort.runtimeconfig.json
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/bin/Debug/net7.0/02InsertionSort.dll
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/bin/Debug/net7.0/02InsertionSort.pdb
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/obj/Debug/net7.0/02InsertionSort.csproj.AssemblyReference.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/obj/Debug/net7.0/02InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/obj/Debug/net7.0/02InsertionSort.AssemblyInfoInputs.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/obj/Debug/net7.0/02InsertionSort.AssemblyInfo.cs
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/obj/Debug/net7.0/02InsertionSort.csproj.CoreCompileInputs.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/obj/Debug/net7.0/02InsertionSort.dll
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/obj/Debug/net7.0/refint/02InsertionSort.dll
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/obj/Debug/net7.0/02InsertionSort.pdb
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/obj/Debug/net7.0/02InsertionSort.genruntimeconfig.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/Sorting/02InsertionSort/obj/Debug/net7.0/ref/02InsertionSort.dll

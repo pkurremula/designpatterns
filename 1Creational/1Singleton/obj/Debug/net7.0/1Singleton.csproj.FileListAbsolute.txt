@@ -1,0 +1,15 @@
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/bin/Debug/net7.0/1Singleton
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/bin/Debug/net7.0/1Singleton.deps.json
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/bin/Debug/net7.0/1Singleton.runtimeconfig.json
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/bin/Debug/net7.0/1Singleton.dll
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/bin/Debug/net7.0/1Singleton.pdb
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/obj/Debug/net7.0/1Singleton.csproj.AssemblyReference.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/obj/Debug/net7.0/1Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/obj/Debug/net7.0/1Singleton.AssemblyInfoInputs.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/obj/Debug/net7.0/1Singleton.AssemblyInfo.cs
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/obj/Debug/net7.0/1Singleton.csproj.CoreCompileInputs.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/obj/Debug/net7.0/1Singleton.dll
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/obj/Debug/net7.0/refint/1Singleton.dll
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/obj/Debug/net7.0/1Singleton.pdb
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/obj/Debug/net7.0/1Singleton.genruntimeconfig.cache
+/Users/prabhanjankurremula/Documents/Prabhanjan/DotNet/DesignPatterns/1Creational/1Singleton/obj/Debug/net7.0/ref/1Singleton.dll
