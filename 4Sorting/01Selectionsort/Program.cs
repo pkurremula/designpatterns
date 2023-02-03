@@ -6,6 +6,8 @@ Console.WriteLine("Hello, World!");
     and check through other elements to find the minimum value. After the end of the first iteration, 
     the minimum value is swapped with the current element. 
     The iteration then continues from the 2nd element and so on.
+
+    https://www.youtube.com/watch?v=g-PGLbMth_g
  */
 
 int array_size =10;
@@ -44,3 +46,8 @@ for (int i = 0; i < 10; i++)
 }
 
 Console.ReadLine();
+
+static void SelectionSort()
+{
+    
+}
